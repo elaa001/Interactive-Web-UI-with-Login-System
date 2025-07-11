@@ -1,8 +1,6 @@
 
 # 🌟 Glowing - Interactive Web UI with Login System
 
-![Glowing Banner](https://img.shields.io/badge/HTML-CSS-JS-blue?style=flat-square&logo=html5&logoColor=white)
-
 **Glowing** is a beautifully designed front-end web UI template that delivers a dynamic and responsive user experience. Designed with modern web technologies like HTML5, CSS3, and JavaScript, it includes a stylish landing page and a smooth login/register interface.
 
 ---
