@@ -1,0 +1,119 @@
+* {
+  padding: 0;
+  margin: 0;
+
+}
+body {
+  background-image: linear-gradient(rgba(189, 212, 165, 0.27),rgba(244, 255, 180, 0.097)),url('/output_image.png');
+  font-family: sans-serif;
+
+
+}
+#container {
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 150px;
+}
+.tabs {
+  display: table-cell;
+  width: 30%;
+  background-color: rgba(42, 85, 40, 0.82);
+  padding: 10px;
+  float: left;
+  text-align: center;
+  vertical-align: middle;
+  border: none;
+  border-bottom: 0px;
+  position: relative;
+  font-size: 1.3em;
+  color: #ffffff;
+  margin: 10px 20px;
+  border-radius: 8px;
+}
+.tabs:hover, p{
+  cursor: pointer;
+}
+
+#lt {
+  background-color: rgba(25, 55, 23, 0.864);
+}
+#cont {
+  width: 300px;
+  height: 350px;
+  background-color: rgb(245, 245, 245);
+  border: none;
+  border-radius: 5px;
+  padding-top: 15px;
+}
+
+input{
+  display: block;
+  width: 250px;
+  margin: 10px 13px;
+  padding: 10px;
+  font-size: 1.3em;
+  color: rgb(0, 0, 0);
+  border-radius: 3px;
+  border: 1px solid rgb(211, 211, 211);
+  outline: 0;
+}
+
+.input-field i {
+  margin-left: 15px;
+  color: hsla(149, 53%, 22%, 0.4);
+}
+
+input:focus{
+  border: none;
+}
+
+input[type="submit"] {
+  width: 272px;
+  background-color: rgba(42, 85, 40, 0.82);
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  
+}
+
+#clear {
+  clear: both;
+}
+
+.comm {
+  position: absolute;
+  visibility: hidden;
+}
+#login {
+  visibility: visible;
+}
+
+h3 {
+  display: table-cell;
+  vertical-align: middle;
+  padding: 10px 15px;
+  font-size: 1.5em;
+  color: transparent;
+}
+
+#forgot h3 {
+  display: block;
+  margin-top: 30px;
+  text-align: center;
+}
+
+#forgot div {
+  margin-top: 30px;
+}
+p {
+  padding: 3px 15px;
+  font-size: 1em;
+  color:rgba(25, 55, 23, 0.864);
+}
+/*#footer {
+  width: 300px;
+  margin: 10px auto;
+  text-align: center;
+  color: rgba(9, 118, 155, 0.91);
+
+}*/
