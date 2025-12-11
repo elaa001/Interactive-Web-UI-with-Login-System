@@ -71,7 +71,7 @@ Follow these simple steps to get started with the **Glowing UI project**:
 1. **Download or Clone the Project:**
    - Download the ZIP from GitHub or use:
      ```
-     git clone https://github.com/your-username/glowing-master.git
+     git clone https://github.com/elaa001/Interactive-Web-UI-with-Login-System.git
      ```
 
 2. **Open the Project:**
